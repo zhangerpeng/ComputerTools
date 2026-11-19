@@ -1,0 +1,40 @@
+﻿E 盘空间变化报告
+本次扫描开始时的 E 盘剩余空间  50.44 GiB
+首次扫描，已生成对比基线。下次运行将列出变化。
+
+当前可读取文件中最大的 30 项（逻辑大小）
+  +12288.00 MiB (+12,884,901,888 字节)    E:\pagefile.sys
+  +1536.04 MiB (+1,610,650,246 字节)    E:\download\编译器\idea-2026.2.0.1.win.zip
+  +1069.96 MiB (+1,121,935,487 字节)    E:\download\公司软件\SW_DVD5_Office_Professional_Plus_2016_64Bit_ChnSimp_MLF_X20-42426.zip
+  +1037.04 MiB (+1,087,412,645 字节)    E:\download\编译器\WebStorm-2025.3.win.zip
+  +809.18 MiB (+848,489,531 字节)    E:\download\数据库\powerdesigner\PowerDesigner165_Evaluation.exe
+  +665.18 MiB (+697,493,126 字节)    E:\Programs\miniforge3\envs\toto_env\Lib\site-packages\torch\lib\dnnl.lib
+  +655.49 MiB (+687,328,789 字节)    E:\idea_workspace\iiot_opcda_broker\.git\objects\pack\pack-75008bd1d55e6b906713e2aec1a4811e491f4460.pack
+  +607.28 MiB (+636,777,446 字节)    E:\download\数据库\powerdesigner.7z
+  +606.15 MiB (+635,592,728 字节)    E:\Programs\miniforge3\envs\conversation_chat\Lib\site-packages\torch\lib\dnnl.lib
+  +599.39 MiB (+628,506,376 字节)    E:\download\编译器\ideaIC-2022.2.5.exe
+  +573.33 MiB (+601,184,642 字节)    E:\idea_workspace\IIoT_service\ui-ngx\.angular\cache\15.2.10\angular-webpack\9734449d847f058723885dba79b7c9787e10b922\3.pack
+  +490.48 MiB (+514,309,392 字节)    E:\download\编译器\TRAE_CN-Setup-x64.exe
+  +488.43 MiB (+512,158,968 字节)    E:\download\尾燃资料\生产数据\24&25年数据\data.csv
+  +488.43 MiB (+512,158,968 字节)    E:\time_series_workspace\ExploreDataAnalysis\data\annual\data.csv
+  +477.68 MiB (+500,882,496 字节)    E:\download\编译器\Trae-Setup-x64.exe
+  +417.91 MiB (+438,213,632 字节)    E:\download\笔记\知识分享\0827\安装包\离线包\kubernetes-docker-v1.22.6.tar
+  +409.55 MiB (+429,446,832 字节)    E:\Program Files\Tencent\Weixin\4.2.0.13\RadiumWMPF.bin
+  +398.39 MiB (+417,737,728 字节)    E:\download\k8s_rpm\k8s\kubernetes.tar
+  +372.36 MiB (+390,442,976 字节)    E:\download\公司软件\Windows_WPS365_C盘非静默.zip
+  +372.36 MiB (+390,442,704 字节)    E:\download\公司软件\setup_CN_2052_12.8.2.18606_Professional_sinopec_v7_20241025_C_fjm.exe
+  +366.41 MiB (+384,212,670 字节)    E:\download\尾燃资料\归档\数据\时序数据\尾燃数据_2024.csv
+  +365.95 MiB (+383,726,031 字节)    E:\download\尾燃资料\归档\数据\时序数据\尾燃数据_2024_01-06.csv
+  +352.91 MiB (+370,053,356 字节)    E:\download\尾燃资料\归档\数据\时序数据\尾燃数据_2024_07_12.csv
+  +349.36 MiB (+366,329,292 字节)    E:\Program Files (x86)\SogouInput\16.10.0.6125\Data\sysmodel.bin
+  +320.66 MiB (+336,233,424 字节)    E:\download\笔记\Joplin-Setup-3.3.13.exe
+  +311.38 MiB (+326,501,869 字节)    E:\Programs\Apifox\resources\app.asar
+  +287.79 MiB (+301,774,803 字节)    E:\download\数据库\iotdb\iotdb_ainode_py\linux_x86_64.zip
+  +272.30 MiB (+285,523,856 字节)    E:\Programs\Trae CN\resources\app\modules\ai-agent\ai_agent.dll
+  +269.51 MiB (+282,600,180 字节)    E:\Programs\miniforge3\pkgs\cache\5afe41e9.json
+  +269.50 MiB (+282,590,489 字节)    E:\Programs\miniforge3\pkgs\cache\0eb84403.json
+
+本次跳过的文件或目录（3 项）
+  E:\$RECYCLE.BIN\S-1-5-21-73586283-1604221776-1644491937-2600\S-1-5-21-73586283-1604221776-1644491937-2600..  未能找到路径“E:\$RECYCLE.BIN\S-1-5-21-73586283-1604221776-1644491937-2600\S-1-5-21-73586283-1604221776-1644491937-2600”的一部分。
+  E:\download\装机工具\CDriveGrowth-OneClick\CDriveGrowth-Data  脚本自己的输出目录
+  E:\System Volume Information  对路径“E:\System Volume Information”的访问被拒绝。
